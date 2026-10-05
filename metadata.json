@@ -1,0 +1,9 @@
+{
+  "name": "Bank Sampah Barokah Gemahan RT 03",
+  "description": "Portal resmi aplikasi Bank Sampah Barokah Gemahan RT 03. Layanan pencatatan tabungan sampah, cek saldo nasabah, jadwal penimbangan, dan pengelolaan daur ulang warga.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

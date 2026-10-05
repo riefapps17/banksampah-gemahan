@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ais-pre-tr7btiotheubqpisv7mpkb-377253427268.asia-southeast1.run.app
+
+# Sitemap
+Sitemap: https://ais-pre-tr7btiotheubqpisv7mpkb-377253427268.asia-southeast1.run.app/sitemap.xml
